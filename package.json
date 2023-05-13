@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  },
+  "name": "week6labs",
+  "description": "��#\u0000 \u0000W\u0000e\u0000e\u0000k\u00006\u0000L\u0000a\u0000b\u0000s\u0000\r\u0000 \u0000",
+  "version": "1.0.0",
+  "main": "tests.js",
+  "scripts": {
+    "test": "npm install"
+  },
+  "author": "",
+  "license": "ISC"
+}
